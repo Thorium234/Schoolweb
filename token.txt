@@ -1,0 +1,3 @@
+>>> print(token.key)
+890ff0cafa66183c0e3a3823c2fdc7d397d2254a
+curl -X POST http://localhost:8000/api-token-auth/ -d "username=manju1&password=injendi27@"
